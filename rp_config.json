@@ -1,8 +1,8 @@
 {
   "general": {
-    "project_name": "NNNights",
+    "project_name": "test",
     "project_version": "1.0.0",
-    "nbt_key": "nnnights",
+    "nbt_key": "test",
     "default_type": "CLAY_BALL"
   },
   "paths": {
@@ -10,53 +10,19 @@
     "output_dir": "build/resourcepack"
   },
   "exact_types": {
-    "wood": "LOG",
-    "wood2": "LOG"
+    "png_name": "LOG",
   },
   "keyword_types": {
     "axe": "STONE_AXE",
-    "hatchet": "STONE_AXE",
-    "cleaver": "STONE_AXE",
-    "chopper": "STONE_AXE",
-
+    
     "sword": "DIAMOND_SWORD",
     "trident": "DIAMOND_SWORD",
     "spear": "DIAMOND_SWORD",
     "mace": "DIAMOND_SWORD",
-    "dagger": "DIAMOND_SWORD",
-    "blade": "DIAMOND_SWORD",
-    "saber": "DIAMOND_SWORD",
-    "knife": "DIAMOND_SWORD",
-    "club": "DIAMOND_SWORD",
-    "hammer": "DIAMOND_SWORD",
-    "scythe": "DIAMOND_SWORD",
-    "lance": "DIAMOND_SWORD",
-    "bow": "DIAMOND_SWORD",
-    "crossbow": "DIAMOND_SWORD",
-    "gun": "DIAMOND_SWORD",
-    "pistol": "DIAMOND_SWORD",
-    "revolver": "DIAMOND_SWORD",
-    "rifle": "DIAMOND_SWORD",
-    "musket": "DIAMOND_SWORD",
 
     "beef": "COOKED_BEEF",
     "carrot": "COOKED_BEEF",
     "corn": "COOKED_BEEF",
     "apple": "COOKED_BEEF",
-    "bread": "COOKED_BEEF",
-    "meat": "COOKED_BEEF",
-    "fish": "COOKED_BEEF",
-    "berry": "COOKED_BEEF",
-    "mushroom": "COOKED_BEEF",
-    "stew": "COOKED_BEEF",
-    "soup": "COOKED_BEEF",
-    "pie": "COOKED_BEEF",
-    "fruit": "COOKED_BEEF",
-    "pepper": "COOKED_BEEF",
-    "currant": "COOKED_BEEF",
-    "food": "COOKED_BEEF",
-    "meal": "COOKED_BEEF",
-    "snack": "COOKED_BEEF",
-    "ration": "COOKED_BEEF"
   }
 }
